@@ -1,0 +1,74 @@
+    1  ls -las
+    2  pwd
+    3  git
+    4  pwd
+    5  mkdir agam_git
+    6  cd  agam_git/
+    7  ls -las
+    8  pwd
+    9  ls -las
+   10  pwd
+   11  git -s
+   12  git status
+   13  mkdir coursera
+   14  cd coursera
+   15  mkdir full_stack
+   16  cd full_stack/
+   17  mkdir course1
+   18  cd course1
+   19  mkdir week1
+   20  cd week1
+   21  touch part1.html
+   22  touch part2.html
+   23  touch part3.html
+   24  ls -l
+   25  vim part1.html
+   26  git -s
+   27  git -status
+   28  git status
+   29  pwd
+   30  ls -las
+   31  ls -la
+   32  cd agam_git/
+   33  ls -las
+   34  ls -l
+   35  git init
+   36  ls l-las
+   37  ls -las
+   38  rm -rf .git/
+   39  ls -l
+   40  cd coursera/
+   41  git init 
+   42  ls -las
+   43  touch full_stack/course1/week1/part1.html 
+   44  touch full_stack/course1/week1/part2.html 
+   45  touch full_stack/course1/week1/part3.html 
+   46  git status
+   47  git add -r full_stack/
+   48  git add full_stack/
+   49  git status
+   50  git commit
+   51  git config --global --edit
+   52  git status
+   53  git remote add origin https://github.com/agamny/coursera.git
+   54  git push -u origin master
+   55  git commit --amend --reset-author
+   56  git commit
+   57  git config --global http.proxy http://<<>>:<<password>>@<<>>.cummins.com:80
+   58  git push -u origin master
+   59  git config --global http.proxy <<>>:<<password>>@http://<<>>.cummins.com:80
+   60  git push -u origin master
+   61  git push -u origin master
+   62* 
+   63  git status
+   64  git add full_stack/course1/week1/part1.html
+   65  git status
+   66  git push -u origin master
+   67  git commit
+   68  git push -u origin master
+   69  git status
+   70  git status
+   71  git status
+   72  git pull
+   73  cat full_stack/course1/week1/part1.html 
+   74  git status
